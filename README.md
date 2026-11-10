@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Khizazr Khan! 👋
 
-<!--
-**PirateKing-26/PirateKing-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student passionate about software engineering, building web applications, and solving problems. I use GitHub to manage my school coursework, collaborate on team projects, and track my coding journey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Tech Stack & Skills
+
+Here are the languages and technologies I am actively studying and using:
+
+- **Languages:** C++, Python, JavaScript
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+)
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 🎓 Academic Focus
+
+- 🏫 **Current Status:** Student
+- 💡 **Interests:** Data Structures & Algorithms, Web Development, Object-Oriented Programming
+- 🚀 **Goals:** Collaborating on open-source projects and building a portfolio for future internships
+
+---
+
+### 📊 My GitHub Stats
+
+![Your GitHub Stats](https://vercel.appPirateKing-26&show_icons=true&theme=radical)
+![Top Langs](https://vercel.appPirateKing-26&layout=compact&theme=radical)
+
+---
+
+
 -->
